@@ -21,3 +21,5 @@ ___Completando la función___
 9. DIVIDIR RESULTADO DE SUMA ENTRE "3"
 10. IMPRIMIR RESULTADO
 11. FIN
+
+![Diagrama de flujo](http://i63.tinypic.com/2ey9isk.jpg)
